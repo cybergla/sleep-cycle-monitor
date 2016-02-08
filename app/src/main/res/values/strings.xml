@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SleepCycleMonitor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_graph">GraphActivity</string>
+</resources>
